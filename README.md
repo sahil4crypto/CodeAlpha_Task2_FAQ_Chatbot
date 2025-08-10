@@ -6,8 +6,8 @@ A Python-based FAQ Chatbot that leverages **TF-IDF vectorization** and **cosine 
 
 ##  Video Explanation  
 Watch the full project walkthrough here:  
-[▶ Watch Demo on Google Drive](https://drive.google.com/file/d/18u8sM0QCsb7c2Fu7h8MYWyilpmnpjZyE/view?usp=drivesdk)
-
+[▶ Watch Demo on Google Drive]
+(https://drive.google.com/file/d/18u8sM0QCsb7c2Fu7h8MYWyilpmnpjZyE/view?usp=drivesdk)
 ---
 
 ##  How I Ran This on Android (Pydroid 3)
@@ -17,4 +17,3 @@ Watch the full project walkthrough here:
 3. Opened Pydroid and executed:
    ```bash
    pip install scikit-learn
-   
