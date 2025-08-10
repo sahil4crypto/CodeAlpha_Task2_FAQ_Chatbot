@@ -25,7 +25,7 @@ Watch the full project walkthrough here:
 
 ## 📄 PDF Explanation
 You can read the complete step-by-step explanation with screenshots here:  
-[📕 View PDF Explanation](https://drive.google.com/file/d/1-xLD9F9j0FH20yYuOB0azis4nHEtK5mD/view?usp=drivesdk)
+[📕 View PDF Explanation](https://drive.google.com/file/d/198d10ZcOsYzGpSpGHAsDVF0dALkAGHfi/view?usp=drivesdk)
 
 
 ---
